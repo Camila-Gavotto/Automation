@@ -1,0 +1,11 @@
+Escribiendo en el campo //input[@name='username'] el texto -> Admin 
+Escribiendo en el campo //input[@type='password'] el texto -> admin123 
+Damos click en el botón //button[@type='submit'][contains(.,'Login')] 
+Entrando al sistema
+Entrando al sistema dos
+Damos click en el botón //a[contains(.,'Admin')] 
+Damos click en el botón (//span[contains(.,'User Management')])[2] 
+Damos click en el botón (//li[contains(.,'Users')])[2] 
+Escribiendo en el campo //*[@id='app']/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[1]/div/div[2]/input el texto -> Admin 
+Salida del login dos
+Salida del login uno

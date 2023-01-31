@@ -1,0 +1,12 @@
+Escribiendo en el campo Email el texto -> admin@yourstore.com 
+Escribiendo en el campo Password el texto -> admin 
+Damos click en el botón //button[@type='submit'][contains(.,'Log in')] 
+Entrando al sistema
+Entrando al sistema uno
+Damos click en el botón (//p[contains(.,'Customers')])[1] 
+Damos click en el botón (//p[contains(.,'Customers')])[2] 
+Escribiendo en el campo //input[contains(@id,'SearchFirstName')] el texto -> victoria 
+Damos click en el botón //button[contains(@id,'search-customers')] 
+Damos click en el botón //a[@href='/Admin/Customer/Create'] 
+Damos click en el botón //input[contains(@id,'Gender_Male')] 
+Escribiendo en el campo //input[contains(@id,'DateOfBirth')] el texto -> 02/20/2000 
